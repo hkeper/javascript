@@ -1,0 +1,15 @@
+Глава 1
+
+1. about:blank
+2. F12
+3. var, let 
+4. ;
+5. /
+6. ???
+7. unexpected token ;
+8. camelCase
+9. скобка
+10. let второй раз
+11. присваивание
+
+
